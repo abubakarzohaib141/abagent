@@ -97,7 +97,7 @@ export default function About() {
                 <div className="mt-8 flex flex-wrap items-center justify-center gap-3 md:justify-start">
                   <Button asChild className="h-11 rounded-lg px-5 shadow-sm">
                     <Link
-                      href="https://abubakar.vercel.app"
+                      href="https://abubakar11.vercel.app"
                       target="_blank"
                       rel="noopener noreferrer"
                       aria-label="Open Abu Bakar&apos;s portfolio website"
